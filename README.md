@@ -34,3 +34,6 @@ https://github.com/graphdeco-inria/gaussian-splatting/tree/main
 https://github.com/graphdeco-inria/diff-gaussian-rasterization
 
 https://github.com/openai/point-e/tree/main/point_e
+
+
+## Testing
